@@ -1,0 +1,76 @@
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\Playground.csproj.CoreCompileInputs.cache
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Playground.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Playground.pdb
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Playground.Playground.apk
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Playground.Playground-Signed.apk
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\Playground.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\Playground.pdb
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\android\bin\Playground.Playground.apk
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\res\layout\main.xml
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\res\values\strings.xml
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\R.cs.flag
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\uploadflags.txt
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\bs\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\hi\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Playground.dll.mdb
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\android\assets\Playground.dll.mdb
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\Playground.csprojResolveAssemblyReference.cache
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\obj\Debug\res\layout\map.xml
+C:\Users\nathan.westfall\Documents\Visual Studio 2017\Projects\Playground\Playground\bin\Debug\Playground.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Playground.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

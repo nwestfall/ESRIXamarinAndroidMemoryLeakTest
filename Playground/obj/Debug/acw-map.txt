@@ -1,0 +1,60 @@
+Playground.MainActivity, Playground;md5bd228be1690d6c7002b5c1bd4eb81737.MainActivity
+Playground.MainActivity, Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd228be1690d6c7002b5c1bd4eb81737.MainActivity
+Playground.MainActivity;md5bd228be1690d6c7002b5c1bd4eb81737.MainActivity
+playground.MainActivity;md5bd228be1690d6c7002b5c1bd4eb81737.MainActivity
+Playground.MapActivity, Playground;md5bd228be1690d6c7002b5c1bd4eb81737.MapActivity
+Playground.MapActivity, Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bd228be1690d6c7002b5c1bd4eb81737.MapActivity
+Playground.MapActivity;md5bd228be1690d6c7002b5c1bd4eb81737.MapActivity
+playground.MapActivity;md5bd228be1690d6c7002b5c1bd4eb81737.MapActivity
+Esri.ArcGISRuntime.Location.AndroidCompassProvider, Esri.ArcGISRuntime;md5978de496cf53a97ac2c723b2a7c8f484.AndroidCompassProvider
+Esri.ArcGISRuntime.Location.AndroidCompassProvider, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md5978de496cf53a97ac2c723b2a7c8f484.AndroidCompassProvider
+Esri.ArcGISRuntime.Location.AndroidCompassProvider;md5978de496cf53a97ac2c723b2a7c8f484.AndroidCompassProvider
+esri.arcgisruntime.location.AndroidCompassProvider;md5978de496cf53a97ac2c723b2a7c8f484.AndroidCompassProvider
+Esri.ArcGISRuntime.Location.CompassProvider, Esri.ArcGISRuntime;md5978de496cf53a97ac2c723b2a7c8f484.CompassProvider
+Esri.ArcGISRuntime.Location.CompassProvider, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md5978de496cf53a97ac2c723b2a7c8f484.CompassProvider
+Esri.ArcGISRuntime.Location.CompassProvider;md5978de496cf53a97ac2c723b2a7c8f484.CompassProvider
+esri.arcgisruntime.location.CompassProvider;md5978de496cf53a97ac2c723b2a7c8f484.CompassProvider
+Esri.ArcGISRuntime.UI.AndroidDeviceInteractionHandler, Esri.ArcGISRuntime;md560f67f0a52f4b5404a66f2b7cff33200.AndroidDeviceInteractionHandler
+Esri.ArcGISRuntime.UI.AndroidDeviceInteractionHandler, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md560f67f0a52f4b5404a66f2b7cff33200.AndroidDeviceInteractionHandler
+Esri.ArcGISRuntime.UI.AndroidDeviceInteractionHandler;md560f67f0a52f4b5404a66f2b7cff33200.AndroidDeviceInteractionHandler
+esri.arcgisruntime.ui.AndroidDeviceInteractionHandler;md560f67f0a52f4b5404a66f2b7cff33200.AndroidDeviceInteractionHandler
+Esri.ArcGISRuntime.UI.Callout, Esri.ArcGISRuntime;md560f67f0a52f4b5404a66f2b7cff33200.Callout
+Esri.ArcGISRuntime.UI.Callout, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md560f67f0a52f4b5404a66f2b7cff33200.Callout
+Esri.ArcGISRuntime.UI.Callout;md560f67f0a52f4b5404a66f2b7cff33200.Callout
+esri.arcgisruntime.ui.Callout;md560f67f0a52f4b5404a66f2b7cff33200.Callout
+Esri.ArcGISRuntime.UI.CalloutFrameDrawable, Esri.ArcGISRuntime;md560f67f0a52f4b5404a66f2b7cff33200.CalloutFrameDrawable
+Esri.ArcGISRuntime.UI.CalloutFrameDrawable, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md560f67f0a52f4b5404a66f2b7cff33200.CalloutFrameDrawable
+Esri.ArcGISRuntime.UI.CalloutFrameDrawable;md560f67f0a52f4b5404a66f2b7cff33200.CalloutFrameDrawable
+esri.arcgisruntime.ui.CalloutFrameDrawable;md560f67f0a52f4b5404a66f2b7cff33200.CalloutFrameDrawable
+Esri.ArcGISRuntime.UI.UserInteractionHandler, Esri.ArcGISRuntime;md560f67f0a52f4b5404a66f2b7cff33200.UserInteractionHandler
+Esri.ArcGISRuntime.UI.UserInteractionHandler, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md560f67f0a52f4b5404a66f2b7cff33200.UserInteractionHandler
+Esri.ArcGISRuntime.UI.UserInteractionHandler;md560f67f0a52f4b5404a66f2b7cff33200.UserInteractionHandler
+esri.arcgisruntime.ui.UserInteractionHandler;md560f67f0a52f4b5404a66f2b7cff33200.UserInteractionHandler
+Esri.ArcGISRuntime.UI.Controls.GeoView, Esri.ArcGISRuntime;md58f40a8d05e9311c15b7f7310411c2403.GeoView
+Esri.ArcGISRuntime.UI.Controls.GeoView, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md58f40a8d05e9311c15b7f7310411c2403.GeoView
+Esri.ArcGISRuntime.UI.Controls.GeoView;md58f40a8d05e9311c15b7f7310411c2403.GeoView
+esri.arcgisruntime.ui.controls.GeoView;md58f40a8d05e9311c15b7f7310411c2403.GeoView
+Esri.ArcGISRuntime.UI.Controls.CalloutDefinitionView, Esri.ArcGISRuntime;md58f40a8d05e9311c15b7f7310411c2403.CalloutDefinitionView
+Esri.ArcGISRuntime.UI.Controls.CalloutDefinitionView, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md58f40a8d05e9311c15b7f7310411c2403.CalloutDefinitionView
+Esri.ArcGISRuntime.UI.Controls.CalloutDefinitionView;md58f40a8d05e9311c15b7f7310411c2403.CalloutDefinitionView
+esri.arcgisruntime.ui.controls.CalloutDefinitionView;md58f40a8d05e9311c15b7f7310411c2403.CalloutDefinitionView
+Esri.ArcGISRuntime.UI.Controls.MapView, Esri.ArcGISRuntime;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.Controls.MapView, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.Controls.MapView;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.MapView;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.Controls.MapGLSurfaceView, Esri.ArcGISRuntime;md58f40a8d05e9311c15b7f7310411c2403.MapGLSurfaceView
+Esri.ArcGISRuntime.UI.Controls.MapGLSurfaceView, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md58f40a8d05e9311c15b7f7310411c2403.MapGLSurfaceView
+Esri.ArcGISRuntime.UI.Controls.MapGLSurfaceView;md58f40a8d05e9311c15b7f7310411c2403.MapGLSurfaceView
+esri.arcgisruntime.ui.controls.MapGLSurfaceView;md58f40a8d05e9311c15b7f7310411c2403.MapGLSurfaceView
+Esri.ArcGISRuntime.UI.Controls.SceneView, Esri.ArcGISRuntime;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.Controls.SceneView, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.Controls.SceneView;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.SceneView;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.Controls.SceneGLSurfaceView, Esri.ArcGISRuntime;md58f40a8d05e9311c15b7f7310411c2403.SceneGLSurfaceView
+Esri.ArcGISRuntime.UI.Controls.SceneGLSurfaceView, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md58f40a8d05e9311c15b7f7310411c2403.SceneGLSurfaceView
+Esri.ArcGISRuntime.UI.Controls.SceneGLSurfaceView;md58f40a8d05e9311c15b7f7310411c2403.SceneGLSurfaceView
+esri.arcgisruntime.ui.controls.SceneGLSurfaceView;md58f40a8d05e9311c15b7f7310411c2403.SceneGLSurfaceView
+Esri.ArcGISRuntime.Internal.Geolocator, Esri.ArcGISRuntime;md5e6eefb9610b26625b61b271b40876459.Geolocator
+Esri.ArcGISRuntime.Internal.Geolocator, Esri.ArcGISRuntime, Version=100.2.1.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86;md5e6eefb9610b26625b61b271b40876459.Geolocator
+Esri.ArcGISRuntime.Internal.Geolocator;md5e6eefb9610b26625b61b271b40876459.Geolocator
+esri.arcgisruntime.internal.Geolocator;md5e6eefb9610b26625b61b271b40876459.Geolocator
