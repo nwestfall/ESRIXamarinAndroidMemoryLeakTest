@@ -7,9 +7,13 @@
   <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
   <uses-permission android:name="android.permission.WRITE_SETTINGS" />
   <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="ControlActivity" android:name="md5bd228be1690d6c7002b5c1bd4eb81737.ControlActivity" />
     <activity android:label="Playground" android:name="md5bd228be1690d6c7002b5c1bd4eb81737.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

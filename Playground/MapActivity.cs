@@ -14,6 +14,7 @@ using Android.Util;
 
 using Esri.ArcGISRuntime.Mapping;
 using Esri.ArcGISRuntime.UI.Controls;
+using Esri.ArcGISRuntime.Geometry;
 
 namespace Playground
 {
@@ -23,6 +24,7 @@ namespace Playground
         MapView mapView;
         Map map;
 
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -31,6 +33,7 @@ namespace Playground
 
             mapView = FindViewById<MapView>(Resource.Id.MapView);
             map = new Map(Basemap.CreateImagery());
+            //map = new Map(Basemap.CreateTopographic());
             mapView.Map = map;
         }
 
