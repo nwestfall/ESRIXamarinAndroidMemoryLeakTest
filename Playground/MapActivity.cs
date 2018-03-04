@@ -24,6 +24,8 @@ namespace Playground
         MapView mapView;
         Map map;
 
+        public bool SelfTerminating { get; set; } = false;
+
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -35,7 +37,27 @@ namespace Playground
             map = new Map(Basemap.CreateImagery());
             //map = new Map(Basemap.CreateTopographic());
             mapView.Map = map;
+
         }
+
+        protected override void OnStart()
+        {
+            base.OnStart();
+
+            SelfTerminating = Intent.GetBooleanExtra("SelfTerminate", false);
+
+            if (SelfTerminating)
+            {
+                new System.Threading.Thread(new ThreadStart(async () =>
+                {
+                    await System.Threading.Tasks.Task.Delay(3000);
+
+                    RunOnUiThread(() => base.OnBackPressed());
+
+                })).Start();
+            }
+        }
+
 
         protected override void OnDestroy()
         {
